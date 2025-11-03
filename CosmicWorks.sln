@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicWorks.CLI", "CosmicWorks.CLI\CosmicWorks.CLI.csproj", "{62E023EF-5645-49B1-B812-EC7956D3EC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicWorks.Tests", "CosmicWorks.Tests\CosmicWorks.Tests.csproj", "{0576103A-0939-4DB2-8C43-F2FFEB6C4B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicWorks.Configuration", "CosmicWorks.Configuration\CosmicWorks.Configuration.csproj", "{5326E5E2-4972-4B20-86FD-44942A55F564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicWorks.Infrastructure", "CosmicWorks.Infrastructure\CosmicWorks.Infrastructure.csproj", "{0A0DB36F-3A84-4B8A-8DBC-C3505E2AAFA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicWorks.Domain", "CosmicWorks.Domain\CosmicWorks.Domain.csproj", "{5385F2B7-416A-4CA6-AB90-5C44A226F1DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicWorks.Application", "CosmicWorks.Application\CosmicWorks.Application.csproj", "{2939F1F5-028B-4332-BD99-75A865377EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E023EF-5645-49B1-B812-EC7956D3EC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E023EF-5645-49B1-B812-EC7956D3EC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E023EF-5645-49B1-B812-EC7956D3EC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E023EF-5645-49B1-B812-EC7956D3EC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0576103A-0939-4DB2-8C43-F2FFEB6C4B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0576103A-0939-4DB2-8C43-F2FFEB6C4B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0576103A-0939-4DB2-8C43-F2FFEB6C4B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0576103A-0939-4DB2-8C43-F2FFEB6C4B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5326E5E2-4972-4B20-86FD-44942A55F564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5326E5E2-4972-4B20-86FD-44942A55F564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5326E5E2-4972-4B20-86FD-44942A55F564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5326E5E2-4972-4B20-86FD-44942A55F564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0DB36F-3A84-4B8A-8DBC-C3505E2AAFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0DB36F-3A84-4B8A-8DBC-C3505E2AAFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0DB36F-3A84-4B8A-8DBC-C3505E2AAFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0DB36F-3A84-4B8A-8DBC-C3505E2AAFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5385F2B7-416A-4CA6-AB90-5C44A226F1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5385F2B7-416A-4CA6-AB90-5C44A226F1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5385F2B7-416A-4CA6-AB90-5C44A226F1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5385F2B7-416A-4CA6-AB90-5C44A226F1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2939F1F5-028B-4332-BD99-75A865377EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2939F1F5-028B-4332-BD99-75A865377EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2939F1F5-028B-4332-BD99-75A865377EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2939F1F5-028B-4332-BD99-75A865377EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD39973-2597-4D1D-9FCA-371CE34BE937}
+	EndGlobalSection
+EndGlobal
